@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "rocket-launcher-loader",
+  "version": "${version}",
+  "name": "Rocket Launcher Loader",
+  "description": "Loads the rocket launcher datapack and resource pack into the game.",
+  "authors": [
+    "DuncanRuns"
+  ],
+  "contributors": [],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/rocket-launcher-loader/icon.png",
+  "environment": "client",
+  "depends": {
+  }
+}

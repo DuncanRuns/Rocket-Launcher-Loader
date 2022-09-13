@@ -1,0 +1,1 @@
+scoreboard objectives add RocketLauncher minecraft.used:minecraft.warped_fungus_on_a_stick "Use fungus on a stick"
